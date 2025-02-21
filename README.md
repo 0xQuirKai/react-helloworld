@@ -1,6 +1,6 @@
 # react.js hello world
 ---
-first, you should install node and npm.
+first, you should install node and npm..
 
 1. create directory  
     `mkdir helloworld && cd helloworld`
